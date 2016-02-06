@@ -4,15 +4,17 @@ Briefly describe your app here.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Angela Kuo ([akuo5@berkeley.edu](mailto:akuo5@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [Crunch Time] (https://www.youtube.com/watch?v=yhcGZrnXjhs)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/1.png" height="400" alt="Screenshot"/>
+<img src="screenshots/2.png" height="400" alt="Screenshot"/>
+<img src="screenshots/3.png" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
 
