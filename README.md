@@ -1,6 +1,6 @@
 # PROG 01: Crunch Time
 
-runch Time is a calorie-converter. It features 2 sliding lists with images, as well as instantaneous updates on conversion numbers. It allows you to input either the number of calories or reps/mins of a certain exercise in the left display, and shows the equivalent number of calories and amount of exercise on right. The max input is 5 digits. 
+Crunch Time is a calorie-converter. It features 2 sliding lists with images, as well as instantaneous updates on conversion numbers. It allows you to input either the number of calories or reps/mins of a certain exercise in the left display, and shows the equivalent number of calories and amount of exercise on right. The max input is 5 digits. 
 
 ## Authors
 
