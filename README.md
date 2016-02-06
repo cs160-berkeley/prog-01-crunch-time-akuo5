@@ -1,6 +1,6 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+A calorie-conversion app that lets you compare equivalent-calorie exercises.
 
 ## Authors
 
@@ -18,7 +18,7 @@ See [Crunch Time] (https://www.youtube.com/watch?v=yhcGZrnXjhs)
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Any other support
+* Thanks to Google Image for the pictures (photocredit.txt)
+
 
 *Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
